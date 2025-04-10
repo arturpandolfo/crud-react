@@ -70,23 +70,8 @@ O frontend abrirá em: [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## ✅ Funcionalidades
-
-- Criar novo usuário
-- Listar usuários cadastrados
-- Editar usuário via CPF
-- Deletar usuário via CPF
-
----
-
 ## 👨‍💻 Autor
 
 Artur Pandolfo Meneghete  
-📧 artur@email.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/arturpandolfo)
-
 ---
 
-## 📜 Licença
-
-Projeto desenvolvido para fins acadêmicos (Experiência Criativa).
